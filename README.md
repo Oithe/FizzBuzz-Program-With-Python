@@ -15,17 +15,31 @@ End number is the last range.
 For example, if we give initial number as 1 and the end number as 15. The out put will be as below.
 
 1
+
 2
+
 Fizz
+
 4
+
 Buzz
+
 Fizz
+
 7
+
 8
+
 Fizz
+
 Buzz
+
 11
+
 Fizz
+
 13
+
 14
+
 FizzBuzz
