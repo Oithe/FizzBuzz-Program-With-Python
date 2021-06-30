@@ -12,7 +12,7 @@ Initial number is the starting number.
 
 End number is the last range.
 
-For example, if we give initial number as 1 and the end number as 15. The out put will be as below.
+For example, if we give initial number as 1 and the end number as 15. The output will be as below.
 
 1
 
